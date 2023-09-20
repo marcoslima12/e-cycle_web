@@ -8,7 +8,7 @@ import {
   StyledLabel,
   StyledTitle,
   SubmitInput,
-} from "./styles";
+} from "../../styles/descarte.styles";
 import { Layout } from "@/components/Layout";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { z } from "zod";

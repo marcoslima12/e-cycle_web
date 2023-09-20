@@ -11,7 +11,7 @@ import {
   SubmitInput,
   RadiosContainer,
   InputRadioContainer,
-} from "./styles";
+} from "../../styles/login.styles";
 import { PhoneInGreen } from "@/assets";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { z } from "zod";
