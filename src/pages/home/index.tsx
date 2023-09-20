@@ -7,7 +7,7 @@ import {
   InformationContainer,
   GreenBackground,
   Content,
-} from "./styles";
+} from "./../../styles/home.styles";
 import Image from "next/image";
 import { Navbar } from "@/components";
 import { Layout } from "@/components/Layout";

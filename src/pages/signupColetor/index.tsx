@@ -9,7 +9,7 @@ import {
   ErrorSpan,
   BaseInput,
   SubmitInput,
-} from ".../../styles/coletor.styles";
+} from "../../styles/coletor.styles";
 import Image from "next/image";
 import { useForm, SubmitHandler } from "react-hook-form";
 import { z } from "zod";
