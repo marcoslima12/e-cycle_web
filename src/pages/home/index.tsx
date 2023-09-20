@@ -28,7 +28,7 @@ export default function Home({ user }: HomeProps) {
             alt="Imagem de globo terra na mão de uma pessoa"
           />
           <ButtonsContainer>
-            {user === "coletor" ? (
+            {user === "descartador" ? (
               <Link href={"/mapa"}>Quero coletar</Link>
             ) : (
               <Link href={"/descarte"}>Quero descartar</Link>
